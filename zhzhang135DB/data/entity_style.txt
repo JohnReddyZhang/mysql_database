@@ -1,0 +1,12 @@
+Chinese Eastern|derive1|bg1
+Chinese Lu|derive2|bg2
+Chinese Cantonese|derive3|bg3
+Chinese Huaiyang|derive4|bg4
+Cajun|derive5|bg5
+American|derive6|bg6
+New American|derive7|bg7
+Chinese Beijing|derive8|bg8
+New England|derive9|bg9
+Mexican|derive10|bg10
+Homestyle|derive11|bg11
+Chinese SzeChuan|derive|bg

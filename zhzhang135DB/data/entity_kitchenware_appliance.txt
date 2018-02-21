@@ -1,0 +1,5 @@
+Steamer|cooking
+Microwave|risineing
+Stove|cooking
+Rice Cooker|rice
+Wall Oven|baking

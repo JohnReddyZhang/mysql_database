@@ -1,0 +1,11 @@
+Kunpao Chicken|linkk1|00:15:00|photo1|20.1|Chinese SzeChuan
+Beijing Duck|linkk2|01:20:00|photo2|30.0|Chinese Beijing
+Steamed Rice|linkk3|01:00:00|photo3|22.1|Homestyle
+Steamed BrownRice|linkk4|02:20:00|photo4|22.1|Homestyle
+Fried Drumstick|linkk5|00:25:00|photo5|10|American
+Some New England Dish|linkk6|00:32:00|photo6|20|New England
+Healthy Salad|linkk7|00:10:00|photo7|15|New American
+Jambalaya Rice|linkk8|00:40:00|photo8|22|Cajun
+Steak Burrito|linkk9|00:10:00|photo9|15|Mexican
+Super Duper Cheeseburger|linkk10|00:20:00|photo10|15|American
+Northeastern Style Stew of Potato, Eggplant and Green Pepper|linkk11|00:40:00|photo11|40|Chinese Eastern

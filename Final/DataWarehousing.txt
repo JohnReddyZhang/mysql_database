@@ -1,0 +1,34 @@
+With my database that is relative simple, I actually do not see much possibilities on
+data warehousing.
+
+However, there is two simple assumption:
+1:
+There is a possibility to save the count of dishes for each flavor, and store it over time,
+Then you could see which flavor does most dishes have, so which flavor is most welcomed could be seen.
+log in a table this data:
+
+SELECT  count(dishName), flavorName
+FROM DishTaste t
+INNER JOIN Dish d
+ON t.dishID = d.ID
+INNER JOIN Flavor f
+ON f.flavorName = t.flavorName
+GROUP BY t.flavorName
+
+The actuall abstraction could be more thorough.
+
+And you could (by some way) add a time stamp to each set of this data,
+then save it into data warehouse.
+You could get preferences change on dish flavor through this.
+
+2:
+We could chronically save data from Dish, UseIngredient, and Sellsingredient table,
+Then sort it by Store and Dish (into two tables, or two references)
+Then you could see what is the best store to go to if you want to cook something,
+And you could see if you go to a certain store, what dish is most likely to be cooked.
+
+As a shop manager, supposedly, you could always make your own store better equipped according to this data.
+And with combination of data in proposal 1, you could prepare your store for the most welcomed dishes (flavor).
+
+Now the database is so small that this advantage won't be clear,
+But as dishes build on, a manager's target on preparing products will be clearer.

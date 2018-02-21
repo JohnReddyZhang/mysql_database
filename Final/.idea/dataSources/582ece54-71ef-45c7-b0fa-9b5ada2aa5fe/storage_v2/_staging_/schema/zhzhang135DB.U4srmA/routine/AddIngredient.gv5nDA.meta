@@ -1,0 +1,2 @@
+#n:AddIngredient
+#i:(varchar(30),tinyint(4),tinyint(4))

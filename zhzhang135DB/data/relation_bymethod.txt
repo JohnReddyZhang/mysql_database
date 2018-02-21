@@ -1,0 +1,22 @@
+1|Stir-Fry|2
+1|Chop|1
+2|Bake|3
+2|Pickle|2
+2|Clean|1
+3|Steam|2
+3|Clean|1
+4|Steam|2
+4|Clean|1
+5|Deep Fry|1
+6|Stew|1
+7|Clean|1
+7|Stir|2
+8|Stew|2
+8|Stir-Fry|1
+9|Bake|1
+9|Pan-Fry|2
+9|Stir|3
+10|Pan-Fry|1
+11|Chop|1
+11|Deep Fry|2
+11|Stir-Fry|3

@@ -1,0 +1,4 @@
+Pot|12.2
+Frying Pan|13.2
+Salad Bowl|9
+Pressure Cooker|20.2

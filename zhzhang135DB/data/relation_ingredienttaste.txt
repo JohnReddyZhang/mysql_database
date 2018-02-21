@@ -1,0 +1,21 @@
+Rice|fresh|Strong
+Brown Rice|fresh|Strong
+Potato|fresh|Mild
+Steak|meat|Strong
+Bread|fresh|Mild
+Bread|herbal|Mild
+Bread|sweet|Light
+Chicken Breast|meat|Strong
+Broccoli|fresh|Strong
+Cheese|cheesy|Strong
+Peanut|fresh|Light
+Green Pepper|fresh|Strong
+SzeChuan Pepper|pepper|Strong
+SzeChuan Pepper|spicy|Strong
+Black Pepper|pepper|Strong
+Duck, whole|meat|Strong
+Chicken Drumstick|meat|Strong
+Salt|salty|Strong
+Carrot|fresh|Strong
+Carrot|herbal|Strong
+Eggplant|fresh|Strong

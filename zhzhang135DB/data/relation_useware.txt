@@ -1,0 +1,41 @@
+1|Frying Pan
+2|Wall Oven
+3|Rice Cooker
+4|Rice Cooker
+5|Frying Pan
+6|Salad Bowl
+7|Salad Bowl
+8|Frying Pan
+8|Rice Cooker
+9|Frying Pan
+10|Frying Pan
+11|Frying Pan
+1|Knife for vegetables
+6|Knife for vegetables
+7|Knife for vegetables
+9|Knife for vegetables
+10|Knife for vegetables
+11|Knife for vegetables
+1|Knife for meat
+2|Knife for meat
+3|Knife for meat
+5|Knife for meat
+8|Knife for meat
+9|Knife for meat
+10|Knife for meat
+11|Knife for meat
+1|Chopping Board
+2|Chopping Board
+5|Chopping Board
+6|Chopping Board
+7|Chopping Board
+8|Chopping Board
+9|Chopping Board
+10|Chopping Board
+1|Frying Spoon
+5|Frying Spoon
+8|Frying Spoon
+9|Frying Spoon
+10|Frying Spoon
+11|Frying Spoon
+8|Pot

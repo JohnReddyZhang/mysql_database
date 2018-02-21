@@ -1,0 +1,12 @@
+Bake|link1
+Steam|link2
+Stir-Fry|link3
+Deep Fry|link4
+Pan-Fry|link5
+Microwave|link6
+Boil|link7
+Stew|link8
+Stir|link9
+Pickle|link10
+Chop|link11
+Clean|link12

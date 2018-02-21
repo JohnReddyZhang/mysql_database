@@ -1,0 +1,21 @@
+Rice|1|Treasure Island|21.5|23.4
+Brown Rice|2|Treasure Island|21.6|23.5
+Potato|3|Treasure Island|21.7|23.6
+Steak|4|Treasure Island|21.8|23.7
+Bread|1|Whole Foods|21.9|23.8
+Bread|2|Whole Foods|22|23.9
+Bread|3|Whole Foods|22.1|24
+Chicken Breast|4|Whole Foods|4|24.1
+Broccoli|1|Hong Kong Market|22.3|24.2
+Cheese|2|Hong Kong Market|5|24.3
+Peanut|3|Hong Kong Market|5|24.4
+Green Pepper|4|Hong Kong Market|5|24.5
+SzeChuan Pepper|5|Hong Kong Market|4|24.6
+SzeChuan Pepper|6|Hong Kong Market|27|24.7
+Black Pepper|1|Trader Joe's|28|24.8
+Duck, whole|2|Trader Joe's|50|24.9
+Chicken Drumstick|3|Trader Joe's|5|25
+Salt|3|Trader Joe's|10|25.1
+Carrot|2|Whole Foods|8|25.2
+Carrot|1|Whole Foods|8|25.3
+Eggplant|6|Hong Kong Market|8|25.4

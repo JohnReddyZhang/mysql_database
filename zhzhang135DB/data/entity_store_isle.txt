@@ -1,0 +1,18 @@
+1|Treasure Island|cate1
+2|Treasure Island|cate2
+3|Treasure Island|cate3
+4|Treasure Island|cate4
+1|Whole Foods|cate1
+2|Whole Foods|cate2
+3|Whole Foods|cate3
+4|Whole Foods|cate4
+1|Hong Kong Market|cate1
+2|Hong Kong Market|cate2
+3|Hong Kong Market|cate3
+4|Hong Kong Market|cate4
+5|Hong Kong Market|cate5
+6|Hong Kong Market|cate16
+1|Trader Joe's|cate1
+2|Trader Joe's|cate2
+3|Trader Joe's|cate3
+4|Trader Joe's|cate4

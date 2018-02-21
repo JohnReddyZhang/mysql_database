@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c688b42-b172-4c3c-99c1-011a4371a3d6" name="MyDB" url="https://mpcs53001.cs.uchicago.edu/~zhzhang135">
+        <fileTransfer host="linux.cs.uchicago.edu" port="22" rootFolder="/home/zhzhang135/cs/mpcs53001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

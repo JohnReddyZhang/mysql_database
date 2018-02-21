@@ -1,0 +1,14 @@
+Pot|1|Hong Kong Market|23.2
+Steamer|1|Hong Kong Market|24.2
+Frying Spoon|1|Hong Kong Market|25.2
+Microwave|2|Hong Kong Market|26.2
+Knife for meat|2|Hong Kong Market|27.2
+Knife for vegetables|2|Hong Kong Market|28.2
+Rice Cooker|3|Hong Kong Market|29.2
+Salad Bowl|3|Hong Kong Market|30.2
+Wall Oven|3|Hong Kong Market|31.2
+Frying Pan|4|Hong Kong Market|32.2
+Pressure Cooker|5|Hong Kong Market|33.2
+Rice Spoon|1|Treasure Island|34.2
+Chopping Board|2|Treasure Island|35.2
+Stove|3|Treasure Island|36.2

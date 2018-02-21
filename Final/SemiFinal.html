@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Root Directory of Assignment_8</title>
+</head>
+<body>
+<h1>Zhenghong Zhang's Cookbook (First build)</h1>
+<p>
+    I implemented in total 8 php scripts in this project so far. All of them are displayed in belowed.<br>
+    You could interact with most of them.
+</p>
+<form action="final.html">
+    <input type="submit" value="Go back to Final Page">
+</form>
+
+<hr>
+<p>
+    The first is basically the same as the example, just to get my hands on.<br>
+    This is a link to <code>ListTables.php</code> that lists all tables.
+<p>
+    <a href="php/ListTables.php">List your tables!</a>
+</p>
+
+<hr>
+<p>
+    The second function imitates the list_attr supplied in the example file,<br>
+    while implementing a while function.
+</p>
+
+<form method=get action="php/ListAttrs.php">
+    <b>Enter Dish:</b>
+    <br>
+    <input title="Input Dish Name" type="text" name="dish">
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<p>
+    The third one uses a routine that is in the database now, PriceMoreThan,<br>
+    and displays dishes that will cost more than desired price.
+</p>
+
+
+<form method=post action="php/PriceMoreThan.php">
+    <p>Enter Price:</p>
+    <br>
+    <input title="Price" type="number" name="price">
+    <br>
+    <button type="submit" value="Submit">Submit!!</button>
+</form>
+
+<hr>
+<p>
+    Thr fourth uses routine SearchForDishTaste. It accepts two arguments:<br>
+    Flavor, and strength. The search will reflect the corresponding dishes.
+</p>
+
+<form method=post action="php/SearchForDishTaste.php">
+    <p>
+        Select your desired flavor:
+    </p>
+    <select name="flavor" title="flavor">
+        <option value="cheesy">Cheesy</option>
+        <option value="fresh">Fresh</option>
+        <option value="herbal">Herbal</option>
+        <option value="meat">Meat</option>
+        <option value="pepper">Pepper</option>
+        <option value="salty">Salty</option>
+        <option value="sour">Sour</option>
+        <option value="spicy">Spicy</option>
+        <option value="sweet">Sweet</option>
+    </select>
+    <br>
+    <p>
+        Select your desired strength, All to display all.
+    </p>
+    <select name="strength" title="strength">
+        <option value="NULL">All</option>
+        <option value="Light">Light</option>
+        <option value="Mild">Mild</option>
+        <option value="Strong">Strong</option>
+    </select>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+<hr>
+<p>
+    Now I will display the instruction of cooking a certain dish, <br>
+    and its corresponding photo.
+</p>
+
+<form method=post action="php/InstructionDisplay.php">
+    <p>
+        Tell me what you want to learn about:
+    </p>
+    <input name="dish" type="text" title="dishName" placeholder="Dish name">
+    <input type="submit" value="Find!">
+</form>
+
+<hr>
+
+<p>
+    The next will display all dishes that uses a certain ingredient you assign.<br>
+    And an instruction link will be provided.
+</p>
+
+<form method="post" action="php/Useingredient.php">
+    <iframe src="php/AllIngredient.php"></iframe>
+    <p>
+        Ingredient you want to look for:
+    </p>
+    <input name="ingredient" type="text" placeholder="Ingredient">
+    <input name="submit" type="submit" value="Submit!">
+</form>
+
+<hr>
+<p>
+    Finally, I would show the methods that are used in one dish.<br>
+</p>
+<form method="post" action="php/MethodList.php">
+    <input type="text" name="Dish" placeholder="Dish name here">
+    <input type="submit" value="Submit!">
+</form>
+
+
+
+</body>
+</html>

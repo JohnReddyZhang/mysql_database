@@ -1,0 +1,35 @@
+1|Peanut
+1|Chicken Breast
+1|Green Pepper
+1|SzeChuan Pepper
+2|Duck, whole
+3|Rice
+4|Brown Rice
+5|Chicken Drumstick
+5|Black Pepper
+6|Broccoli
+7|Broccoli
+7|Carrot
+7|Cheese
+8|Brown Rice
+8|Chicken Breast
+8|Steak
+9|Steak
+9|Brown Rice
+9|Cheese
+10|Bread
+10|Cheese
+10|Steak
+11|Eggplant
+11|Potato
+11|Green Pepper
+1|Salt
+2|Salt
+4|Salt
+5|Salt
+6|Salt
+7|Salt
+8|Salt
+9|Salt
+10|Salt
+11|Salt

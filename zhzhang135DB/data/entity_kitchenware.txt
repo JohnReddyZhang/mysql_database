@@ -1,0 +1,14 @@
+Pot|kwphoto1
+Steamer|kwphoto2
+Frying Spoon|kwphoto3
+Microwave|kwphoto4
+Knife for meat|kwphoto5
+Knife for vegetables|kwphoto6
+Rice Cooker|kwphoto7
+Salad Bowl|kwphoto8
+Wall Oven|kwphoto9
+Frying Pan|kwphoto10
+Pressure Cooker|kwphoto10
+Rice Spoon|kwphoto11
+Chopping Board| kwphoto11
+Stove| kwphoto11
